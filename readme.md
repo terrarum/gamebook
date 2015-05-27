@@ -1,0 +1,1 @@
+Make a shell script that sets kadira environment variables?
